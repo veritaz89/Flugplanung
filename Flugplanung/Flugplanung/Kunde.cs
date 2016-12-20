@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Flugplanung
 {
-    class Program
+    class Kunde : Personengruppe
     {
-        static void Main(string[] args)
+        public Kunde (string vorname, string nachname)
         {
-            Verwaltung verwaltung = new Verwaltung();
-            verwaltung.Run();
+            this.vorname = vorname;
+            this.nachname = nachname;
         }
     }
 }

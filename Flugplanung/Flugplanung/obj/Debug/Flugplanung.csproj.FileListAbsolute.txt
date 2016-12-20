@@ -1,1 +1,6 @@
 C:\Users\Alex\Documents\GitHub\repos\Flugplanung\Flugplanung\bin\Debug\Flugplanung.exe.config
+C:\Users\Alex\Documents\GitHub\Flugplanung\Flugplanung\Flugplanung\bin\Debug\Flugplanung.exe.config
+C:\Users\Alex\Documents\GitHub\Flugplanung\Flugplanung\Flugplanung\bin\Debug\Flugplanung.exe
+C:\Users\Alex\Documents\GitHub\Flugplanung\Flugplanung\Flugplanung\bin\Debug\Flugplanung.pdb
+C:\Users\Alex\Documents\GitHub\Flugplanung\Flugplanung\Flugplanung\obj\Debug\Flugplanung.exe
+C:\Users\Alex\Documents\GitHub\Flugplanung\Flugplanung\Flugplanung\obj\Debug\Flugplanung.pdb
