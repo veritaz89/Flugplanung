@@ -4,3 +4,4 @@ C:\Users\Alex\Documents\GitHub\Flugplanung\Flugplanung\Flugplanung\bin\Debug\Flu
 C:\Users\Alex\Documents\GitHub\Flugplanung\Flugplanung\Flugplanung\bin\Debug\Flugplanung.pdb
 C:\Users\Alex\Documents\GitHub\Flugplanung\Flugplanung\Flugplanung\obj\Debug\Flugplanung.exe
 C:\Users\Alex\Documents\GitHub\Flugplanung\Flugplanung\Flugplanung\obj\Debug\Flugplanung.pdb
+C:\Users\Alex\Documents\GitHub\Flugplanung\Flugplanung\Flugplanung\obj\Debug\Flugplanung.csprojResolveAssemblyReference.cache

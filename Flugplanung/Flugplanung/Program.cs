@@ -8,8 +8,13 @@ namespace Flugplanung
 {
     class Program
     {
+        /// <summary>
+        /// Initialisierung der Klasse Verwaltung
+        /// Aufrufen der Methode Run von der Klasse Verwaltung
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
-        {
+        {            
             Verwaltung verwaltung = new Verwaltung();
             verwaltung.Run();
         }
