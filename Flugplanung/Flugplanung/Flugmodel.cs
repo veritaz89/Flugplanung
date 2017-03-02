@@ -31,6 +31,28 @@ namespace Flugplanung
             this.flugreichtweite = Flugreichweite;
             this.Kunde = K;
         }
+
+        internal Techniker Techniker1
+        {
+            get
+            {
+                throw new System.NotImplementedException();
+            }
+            set
+            {
+            }
+        }
+
+        internal Kunde Kunde1
+        {
+            get
+            {
+                throw new System.NotImplementedException();
+            }
+            set
+            {
+            }
+        }
         /// <summary>
         /// Techniker in ein Array speichern
         /// </summary>

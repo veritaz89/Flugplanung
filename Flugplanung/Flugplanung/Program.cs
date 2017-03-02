@@ -8,6 +8,16 @@ namespace Flugplanung
 {
     class Program
     {
+        internal Verwaltung Verwaltung
+        {
+            get
+            {
+                throw new System.NotImplementedException();
+            }
+            set
+            {
+            }
+        }
         /// <summary>
         /// Initialisierung der Klasse Verwaltung
         /// Aufrufen der Methode Run von der Klasse Verwaltung

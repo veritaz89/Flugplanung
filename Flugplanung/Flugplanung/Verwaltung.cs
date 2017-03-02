@@ -12,6 +12,17 @@ namespace Flugplanung
         /// Liste für alle Flugmodelle
         /// </summary>
         List<object> Flugmodelle = new List<object>();
+
+        internal Flugmodel Flugmodel
+        {
+            get
+            {
+                throw new System.NotImplementedException();
+            }
+            set
+            {
+            }
+        }
         /// <summary>
         /// Initialisierung der Klassen
         /// Aufrufen der Methode Ausgabe
